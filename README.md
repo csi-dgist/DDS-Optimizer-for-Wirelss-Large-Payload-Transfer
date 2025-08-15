@@ -51,7 +51,7 @@ This setting limits the RTPS message size to 1472 bytes to prevent IP fragmentat
 > </heartbeatPeriod>
 > ```
 
-The heartbeat period is optimized to `n = 2r` where `r` is the publish rate, reducing retransmission jitter and improving control traffic efficiency.
+The heartbeat rate is optimized to `n = 2r` where `r` is the publish rate, reducing retransmission jitter and improving control traffic efficiency.
 
 **Step 3: Prevent Buffer Burst**
 
