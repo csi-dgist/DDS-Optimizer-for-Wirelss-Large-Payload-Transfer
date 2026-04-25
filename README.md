@@ -1,4 +1,4 @@
-# DDS Optimizer for Wirelss Large Payload Transfer
+# DDS Optimizer for Wireless Large Payload Transfer
 <p align="center">
   <img alt="ROS2 logo" src="https://img.shields.io/badge/ROS--2-Humble-blue?style=for-the-badge">
   <img alt="Fast DDS logo" src="https://img.shields.io/badge/Fast--DDS-2.6.9-brightgreen?style=for-the-badge">
