@@ -1,4 +1,9 @@
 # DDS Optimizer for Wireless Large Payload Transfer
+
+Research code accompanying [Optimizing ROS 2 Communication for Wireless Robotic Systems](https://arxiv.org/abs/2508.11366).
+
+**Paper authors:** [Sanghoon Lee](https://github.com/Hun0130), Taehun Kim, Jiyeong Chae, and Kyung-Joon Park. Developed at DGIST CSI Lab.
+
 <p align="center">
   <img alt="ROS2 logo" src="https://img.shields.io/badge/ROS--2-Humble-blue?style=for-the-badge">
   <img alt="Fast DDS logo" src="https://img.shields.io/badge/Fast--DDS-2.6.9-brightgreen?style=for-the-badge">
@@ -167,6 +172,7 @@ Support for other DDS vendors such as Cyclone DDS and OpenDDS is planned in futu
 ### Contact & Collaboration
 If you have any issues or questions about using this tool, please feel free to contact us anytime.
 
+**Research contact**: [Sanghoon Lee](https://github.com/Hun0130), first author of the linked paper  
 **Email**: [leesh2913@dgist.ac.kr](mailto:leesh2913@dgist.ac.kr)  
 **Homepage**: [hun0130.github.io](https://hun0130.github.io/)
 
